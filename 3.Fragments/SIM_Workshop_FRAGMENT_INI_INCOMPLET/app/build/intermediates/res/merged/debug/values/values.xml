@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">Hope for youth</string>
+    <string name="txt_general">Samsung is dedicated to helping people discover a world of possibilities by offering products and technology that inspire passion and provide what they expect as well as what they never dreamed was possible. We are equally dedicated to creating possibilities for our children. We launched our corporate giving program Samsung Hope for Children in 2002 to support children’s education and health-related issues.</string>
+    <style name="AppBaseTheme" parent="AppBaseTheme">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

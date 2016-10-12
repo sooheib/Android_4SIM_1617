@@ -1,0 +1,7 @@
+#Wed Oct 05 12:02:16 CET 2016
+base.0=/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_35cbc1c77ef98ef96b7a9a5276df2bac13ffeb54
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_81237bdf71c5090e1d92f3c4d40e54b1dc4bfeca/classes.dex
+base.1=/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_81237bdf71c5090e1d92f3c4d40e54b1dc4bfeca
+file.0=/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_35cbc1c77ef98ef96b7a9a5276df2bac13ffeb54/classes.dex

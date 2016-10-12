@@ -1,0 +1,54 @@
+[
+    {
+        "outputFile": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 175
+                },
+                "from": {
+                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 305
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 175
+                },
+                "from": {
+                    "file": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 305
+                    }
+                }
+            }
+        ]
+    }
+]

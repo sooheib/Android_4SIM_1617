@@ -1,0 +1,248 @@
+[
+    {
+        "outputFile": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 51,
+                    "endOffset": 216
+                },
+                "from": {
+                    "file": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 51,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 221,
+                    "endColumn": 450,
+                    "endOffset": 667
+                },
+                "from": {
+                    "file": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 450,
+                        "endOffset": 554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 672,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 951
+                },
+                "from": {
+                    "file": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 956,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 1111
+                },
+                "from": {
+                    "file": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 518,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 675
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 51,
+                    "endOffset": 216
+                },
+                "from": {
+                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 51,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 221,
+                    "endColumn": 450,
+                    "endOffset": 667
+                },
+                "from": {
+                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 450,
+                        "endOffset": 554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 672,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 951
+                },
+                "from": {
+                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 956,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 1111
+                },
+                "from": {
+                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 518,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 675
+                    }
+                }
+            }
+        ]
+    }
+]

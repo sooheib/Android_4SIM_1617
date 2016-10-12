@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/build/intermediates/res/merged/debug/layout/activity_joueur_list.xml",
+        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/src/main/res/layout/activity_joueur_list.xml"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/build/intermediates/res/merged/debug/layout/activity_joueur_detail.xml",
+        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/src/main/res/layout/activity_joueur_detail.xml"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/build/intermediates/res/merged/debug/layout/activity_joueur_twopane.xml",
+        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/src/main/res/layout/activity_joueur_twopane.xml"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/build/intermediates/res/merged/debug/layout/item_joueur.xml",
+        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/src/main/res/layout/item_joueur.xml"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/build/intermediates/res/merged/debug/layout/fragment_joueur_detail.xml",
+        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/src/main/res/layout/fragment_joueur_detail.xml"
+    }
+]

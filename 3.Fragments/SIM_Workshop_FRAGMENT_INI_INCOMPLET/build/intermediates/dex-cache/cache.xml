@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/sooheib/android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/media/sooheib/660275E40275BA1F/ESPRITCourses/ClassSIM/Android/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.1.1_cbe10ca71989c36bb4b0e5af420ca8de7179637f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/sooheib/660275E40275BA1F/ESPRITCourses/ClassSIM/Android/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ff38c9fd07060800f014b2134c2eb92e899cc88d">
+        <dex dex="/media/sooheib/660275E40275BA1F/ESPRITCourses/ClassSIM/Android/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b4f62b3d342b5fe152850559f4c778c105d1c348/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/sooheib/660275E40275BA1F/ESPRITCourses/ClassSIM/Android/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/media/sooheib/660275E40275BA1F/ESPRITCourses/ClassSIM/Android/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.1.1_81741cf9375c03a2083c9bfdabe703cc466b9449/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/sooheib/660275E40275BA1F/ESPRITCourses/ClassSIM/Android/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/media/sooheib/660275E40275BA1F/ESPRITCourses/ClassSIM/Android/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.1.1_ced4b8c614df554c34c25e576f3cf2c5632c20ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/sooheib/660275E40275BA1F/ESPRITCourses/ClassSIM/Android/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3771999ac9b17c80d6cc68e71b649ce29f09abb0">
+        <dex dex="/media/sooheib/660275E40275BA1F/ESPRITCourses/ClassSIM/Android/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_21822cc103aa7fb3fb4702a5acbe73139f7950e1/classes.dex" />
+    </item>
+
+</items>

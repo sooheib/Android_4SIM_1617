@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/Android/workspaces/SIM/Fragment/SIM_Workshop_FragmentAndroid_InComplet/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="background_window">#FFE5E5E5</color>
+    <declare-styleable name="PagerSlidingTabStrip"><attr format="color" name="indicatorColor"/><attr format="color" name="underlineColor"/><attr format="color" name="dividerColor"/><attr format="dimension" name="indicatorHeight"/><attr format="dimension" name="underlineHeight"/><attr format="dimension" name="dividerPadding"/><attr format="dimension" name="tabPaddingLeftRight"/><attr format="dimension" name="scrollOffset"/><attr format="reference" name="tabBackground"/><attr format="boolean" name="shouldExpand"/><attr format="boolean" name="textAllCaps"/></declare-styleable>
+    <!-- From: file:/E:/Android/workspaces/SIM/Fragment/SIM_Workshop_FragmentAndroid_InComplet/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/E:/Android/workspaces/SIM/Fragment/SIM_Workshop_FragmentAndroid_InComplet/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_download">Download</string>
+    <string name="app_name">Media Browser</string>
+    <!-- From: file:/E:/Android/workspaces/SIM/Fragment/SIM_Workshop_FragmentAndroid_InComplet/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+    	<item name="android:actionBarStyle">@style/MyActionBar</item>
+	</style>
+    <style name="MyActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+    	<item name="android:background">#fff</item>
+	</style>
+    <style name="PagerTabStripText">
+<item name="android:textSize">14sp</item>
+<item name="android:textStyle">bold</item>
+<item name="android:textColor">@color/pager_tab</item>
+</style>
+</resources>

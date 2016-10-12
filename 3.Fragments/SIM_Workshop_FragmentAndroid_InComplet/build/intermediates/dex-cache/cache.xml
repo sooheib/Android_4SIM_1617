@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="E:\Android\workspaces\SIM\Fragment\SIM_Workshop_FragmentAndroid_InComplet\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-60b3b8aa0e383bc95571af36d1a0ce95e50f3775.jar" />
+    </item>
+    <item
+        jar="E:\Android\workspaces\SIM\Fragment\SIM_Workshop_FragmentAndroid_InComplet\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="E:\Android\workspaces\SIM\Fragment\SIM_Workshop_FragmentAndroid_InComplet\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-720ca41c95452c8f276ec8549fd79af8cd1364cc.jar" />
+    </item>
+    <item
+        jar="E:\Android\workspaces\SIM\Fragment\SIM_Workshop_FragmentAndroid_InComplet\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="E:\Android\workspaces\SIM\Fragment\SIM_Workshop_FragmentAndroid_InComplet\app\build\intermediates\pre-dexed\debug\classes-21f77ff384a0e562ae2b3718f18dd6dff9fbda96.jar" />
+    </item>
+
+</items>

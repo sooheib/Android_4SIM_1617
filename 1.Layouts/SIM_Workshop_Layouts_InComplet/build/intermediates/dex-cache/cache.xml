@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/sooheib/Desktop/Untitled Folder/SIM_Workshop_Layouts_InComplet/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="555e0dedeeac907af8ab9df6e04a89d1d330d5e1">
+        <dex dex="/home/sooheib/Desktop/Untitled Folder/SIM_Workshop_Layouts_InComplet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_28fbded2a0e4c7d1cdffdf35f56d68b6b5702e9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sooheib/Desktop/Untitled Folder/SIM_Workshop_Layouts_InComplet/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3496d52394a42ebda7bd8abedf7b7f39d8db4141">
+        <dex dex="/home/sooheib/Desktop/Untitled Folder/SIM_Workshop_Layouts_InComplet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7d9f5d232e005e39b15db3c3cc6e2ded3c5088c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/1.Layouts/SIM_Workshop_Layouts_InComplet/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1f34dd2891d90dc90b2e7483d842c9a9a4de5c2f">
+        <dex dex="/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/1.Layouts/SIM_Workshop_Layouts_InComplet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_af716acdf8061cbb1bf4bdc3235cf0c40408cccb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/1.Layouts/SIM_Workshop_Layouts_InComplet/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="bcecd7121d98f30da5fa067e3cf283bf2a30f0d0">
+        <dex dex="/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/1.Layouts/SIM_Workshop_Layouts_InComplet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6c10b76ff34a1ae0c42dec1dbf890ddf6afcaf9d/classes.dex" />
+    </item>
+
+</items>

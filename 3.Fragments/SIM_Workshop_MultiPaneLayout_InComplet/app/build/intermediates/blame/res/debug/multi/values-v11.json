@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 12,
+                    "endOffset": 129
+                },
+                "from": {
+                    "file": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 2,
+                        "endColumn": 12,
+                        "endOffset": 92
+                    }
+                }
+            }
+        ]
+    }
+]

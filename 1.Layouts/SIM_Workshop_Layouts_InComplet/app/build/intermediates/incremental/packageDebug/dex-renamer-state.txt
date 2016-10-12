@@ -1,0 +1,7 @@
+#Tue Oct 04 22:42:33 CET 2016
+base.0=/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/1.Layouts/SIM_Workshop_Layouts_InComplet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_af716acdf8061cbb1bf4bdc3235cf0c40408cccb
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/1.Layouts/SIM_Workshop_Layouts_InComplet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6c10b76ff34a1ae0c42dec1dbf890ddf6afcaf9d/classes.dex
+base.1=/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/1.Layouts/SIM_Workshop_Layouts_InComplet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6c10b76ff34a1ae0c42dec1dbf890ddf6afcaf9d
+file.0=/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/1.Layouts/SIM_Workshop_Layouts_InComplet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_af716acdf8061cbb1bf4bdc3235cf0c40408cccb/classes.dex

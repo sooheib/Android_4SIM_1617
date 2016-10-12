@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b605e4c97da565d128017897cf6b09a07066110d">
+        <dex dex="/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_67af3b986244ed34a3564d70dc6a859c53be2085/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5ddcf26bc0109aa9f9ba3a9e75a2da32431dcc27">
+        <dex dex="/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_36edc4a31c89fbe4dbe4233f350d153c4fbd53a6/classes.dex" />
+    </item>
+
+</items>

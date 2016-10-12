@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/sooheib/android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_fb83ea5f7d3c851cf4c7780836dbb0894e122c7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="1e10651911d6d2a256e71190a5fc0e017b2b7a82">
+        <dex dex="/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_35cbc1c77ef98ef96b7a9a5276df2bac13ffeb54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="109f785f281a02504f8413a7787d8aa8573f999c">
+        <dex dex="/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_81237bdf71c5090e1d92f3c4d40e54b1dc4bfeca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_ec674d6e7d1fbc0d38bd05e8be71715df26edf8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.0_69bf34e6c02309dd697ca010f1073eb6a89c63ba/classes.dex" />
+    </item>
+
+</items>

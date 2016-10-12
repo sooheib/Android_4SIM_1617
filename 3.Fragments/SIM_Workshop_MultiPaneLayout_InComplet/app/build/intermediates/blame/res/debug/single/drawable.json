@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/build/intermediates/res/merged/debug/drawable/back.xml",
+        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/src/main/res/drawable/back.xml"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/build/intermediates/res/merged/debug/drawable/corner.xml",
+        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/src/main/res/drawable/corner.xml"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/build/intermediates/res/merged/debug/drawable/list_selector.xml",
+        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/src/main/res/drawable/list_selector.xml"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/build/intermediates/res/merged/debug/drawable/selected_corner.xml",
+        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/src/main/res/drawable/selected_corner.xml"
+    }
+]

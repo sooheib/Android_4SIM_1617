@@ -1,0 +1,7 @@
+#Wed Oct 05 15:34:38 CET 2016
+base.0=/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_67af3b986244ed34a3564d70dc6a859c53be2085
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_36edc4a31c89fbe4dbe4233f350d153c4fbd53a6/classes.dex
+base.1=/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_36edc4a31c89fbe4dbe4233f350d153c4fbd53a6
+file.0=/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_67af3b986244ed34a3564d70dc6a859c53be2085/classes.dex

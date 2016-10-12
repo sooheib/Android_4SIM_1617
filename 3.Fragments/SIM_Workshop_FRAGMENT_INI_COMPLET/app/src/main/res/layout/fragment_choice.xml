@@ -1,0 +1,71 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="50dp"
+        android:src="@drawable/logo_esprit_mobile" />
+
+    <RelativeLayout
+        android:id="@+id/rl"
+        android:layout_width="wrap_content"
+        android:layout_height="150dp"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="20dp" >
+
+        <ImageView
+            android:id="@+id/img_samsung"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/logo_samsung" />
+
+        <ImageView
+            android:id="@+id/img_hope"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/img_samsung"
+            android:src="@drawable/logo_hope" />
+
+        <ImageButton
+            android:id="@+id/btn_life"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/img_samsung"
+            android:layout_toRightOf="@id/img_samsung"
+            android:background="#0000"
+            android:src="@drawable/life_item" />
+
+        <ImageButton
+            android:id="@+id/btn_learn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/btn_life"
+            android:layout_toRightOf="@id/btn_life"
+            android:background="#0000"
+            android:src="@drawable/learn_item" />
+
+        <ImageButton
+            android:id="@+id/btn_planet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/btn_learn"
+            android:layout_toRightOf="@id/btn_learn"
+            android:background="#0000"
+            android:src="@drawable/planet_item" />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/rl"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:text="@string/txt_general" />
+
+</RelativeLayout>
