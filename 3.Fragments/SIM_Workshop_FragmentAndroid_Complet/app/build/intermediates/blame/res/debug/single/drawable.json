@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FragmentAndroid_InComplet/app/build/intermediates/res/merged/debug/drawable/background_tabs_diagonal.xml",
+        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FragmentAndroid_InComplet/app/src/main/res/drawable/background_tabs_diagonal.xml"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FragmentAndroid_InComplet/app/build/intermediates/res/merged/debug/drawable/back_actionbar.xml",
+        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FragmentAndroid_InComplet/app/src/main/res/drawable/back_actionbar.xml"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FragmentAndroid_InComplet/app/build/intermediates/res/merged/debug/drawable/background_tab.xml",
+        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FragmentAndroid_InComplet/app/src/main/res/drawable/background_tab.xml"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FragmentAndroid_InComplet/app/build/intermediates/res/merged/debug/drawable/background_tabs.xml",
+        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FragmentAndroid_InComplet/app/src/main/res/drawable/background_tabs.xml"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FragmentAndroid_InComplet/app/build/intermediates/res/merged/debug/layout/video_frag.xml",
+        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FragmentAndroid_InComplet/app/src/main/res/layout/video_frag.xml"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FragmentAndroid_InComplet/app/build/intermediates/res/merged/debug/layout/music_frag.xml",
+        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FragmentAndroid_InComplet/app/src/main/res/layout/music_frag.xml"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FragmentAndroid_InComplet/app/build/intermediates/res/merged/debug/layout/item_media.xml",
+        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FragmentAndroid_InComplet/app/src/main/res/layout/item_media.xml"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FragmentAndroid_InComplet/app/build/intermediates/res/merged/debug/layout/fragment_quick_rate.xml",
+        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FragmentAndroid_InComplet/app/src/main/res/layout/fragment_quick_rate.xml"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FragmentAndroid_InComplet/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FragmentAndroid_InComplet/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FragmentAndroid_InComplet/app/build/intermediates/res/merged/debug/layout/add_edit.xml",
+        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FragmentAndroid_InComplet/app/src/main/res/layout/add_edit.xml"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FragmentAndroid_InComplet/app/build/intermediates/res/merged/debug/layout/picture_frag.xml",
+        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FragmentAndroid_InComplet/app/src/main/res/layout/picture_frag.xml"
+    }
+]
