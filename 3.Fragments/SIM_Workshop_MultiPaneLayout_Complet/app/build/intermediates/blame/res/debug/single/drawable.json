@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_MultiPaneLayout_Complet/app/build/intermediates/res/merged/debug/drawable/back.xml",
+        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_MultiPaneLayout_Complet/app/src/main/res/drawable/back.xml"
+    },
+    {
+        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_MultiPaneLayout_Complet/app/build/intermediates/res/merged/debug/drawable/corner.xml",
+        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_MultiPaneLayout_Complet/app/src/main/res/drawable/corner.xml"
+    },
+    {
+        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_MultiPaneLayout_Complet/app/build/intermediates/res/merged/debug/drawable/selected_corner.xml",
+        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_MultiPaneLayout_Complet/app/src/main/res/drawable/selected_corner.xml"
+    },
+    {
+        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_MultiPaneLayout_Complet/app/build/intermediates/res/merged/debug/drawable/list_selector.xml",
+        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_MultiPaneLayout_Complet/app/src/main/res/drawable/list_selector.xml"
+    }
+]

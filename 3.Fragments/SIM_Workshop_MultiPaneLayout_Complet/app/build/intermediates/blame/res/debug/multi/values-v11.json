@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_MultiPaneLayout_Complet/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 12,
+                    "endOffset": 129
+                },
+                "from": {
+                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_MultiPaneLayout_Complet/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 2,
+                        "endColumn": 12,
+                        "endOffset": 92
+                    }
+                }
+            }
+        ]
+    }
+]

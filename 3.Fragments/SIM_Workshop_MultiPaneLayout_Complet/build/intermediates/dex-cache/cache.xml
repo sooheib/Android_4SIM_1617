@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/sooheib/android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_MultiPaneLayout_Complet/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0_fb83ea5f7d3c851cf4c7780836dbb0894e122c7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_MultiPaneLayout_Complet/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_MultiPaneLayout_Complet/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_f4fcc5c3da509b34cac4968b5c33486cc09eccf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_MultiPaneLayout_Complet/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_MultiPaneLayout_Complet/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.0_f415bea8f4c24034b7f15a2878d694c6dc116013.jar" />
+    </item>
+
+</items>

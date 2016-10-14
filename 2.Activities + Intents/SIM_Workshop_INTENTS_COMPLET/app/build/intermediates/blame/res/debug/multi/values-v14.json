@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/2.Activities + Intents/SIM_Workshop_INTENTS_COMPLET/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+        "outputFile": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/2.Activities + Intents/SIM_Workshop_INTENTS_COMPLET/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 201
                 },
                 "from": {
-                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/2.Activities + Intents/SIM_Workshop_INTENTS_COMPLET/app/src/main/res/values-v14/styles.xml",
+                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/2.Activities + Intents/SIM_Workshop_INTENTS_COMPLET/app/src/main/res/values-v14/styles.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,

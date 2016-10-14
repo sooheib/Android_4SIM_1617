@@ -1,146 +1,74 @@
 [
     {
-        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/planet.png",
-        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/planet.png"
+        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_planet.png",
+        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/src/main/res/drawable-xxhdpi/logo_planet.png"
     },
     {
-        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/science_program.png",
-        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/science_program.png"
+        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_esprit_mobile.png",
+        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/src/main/res/drawable-xxhdpi/logo_esprit_mobile.png"
     },
     {
-        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
-        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_life.png",
+        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/src/main/res/drawable-xxhdpi/logo_life.png"
     },
     {
-        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/learning.png",
-        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/learning.png"
+        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/companies.png",
+        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/src/main/res/drawable-xxhdpi/companies.png"
     },
     {
-        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/companies.png",
-        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/companies.png"
+        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_life_selected.png",
+        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/src/main/res/drawable-xxhdpi/logo_life_selected.png"
     },
     {
-        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/learning.png",
-        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/learning.png"
+        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/hfcgala.png",
+        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/src/main/res/drawable-xxhdpi/hfcgala.png"
     },
     {
-        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_life_selected.png",
-        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/logo_life_selected.png"
+        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_learning_selected.png",
+        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/src/main/res/drawable-xxhdpi/logo_learning_selected.png"
     },
     {
-        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_life.png",
-        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/logo_life.png"
+        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/learning.png",
+        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/src/main/res/drawable-xxhdpi/learning.png"
     },
     {
-        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/recycling_direct.png",
-        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/recycling_direct.png"
+        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_hope.png",
+        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/src/main/res/drawable-xxhdpi/logo_hope.png"
     },
     {
-        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_learning.png",
-        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/logo_learning.png"
+        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/recycling_direct.png",
+        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/src/main/res/drawable-xxhdpi/recycling_direct.png"
     },
     {
-        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_esprit_mobile.png",
-        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/logo_esprit_mobile.png"
+        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/planet.png",
+        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/src/main/res/drawable-xxhdpi/planet.png"
     },
     {
-        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
-        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/science_program.png",
+        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/src/main/res/drawable-xxhdpi/science_program.png"
     },
     {
-        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_planet_selected.png",
-        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/logo_planet_selected.png"
+        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/hfcgala.png",
-        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/hfcgala.png"
+        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_planet_selected.png",
+        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/src/main/res/drawable-xxhdpi/logo_planet_selected.png"
     },
     {
-        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_hope.png",
-        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/logo_hope.png"
+        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/icon.png",
+        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/src/main/res/drawable-xxhdpi/icon.png"
     },
     {
-        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/life.png",
-        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/life.png"
+        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_samsung.png",
+        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/src/main/res/drawable-xxhdpi/logo_samsung.png"
     },
     {
-        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/hfcgala.png",
-        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/hfcgala.png"
+        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_learning.png",
+        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/src/main/res/drawable-xxhdpi/logo_learning.png"
     },
     {
-        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/icon.png",
-        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/icon.png"
-    },
-    {
-        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/recycling_direct.png",
-        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/recycling_direct.png"
-    },
-    {
-        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_planet.png",
-        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/logo_planet.png"
-    },
-    {
-        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_learning_selected.png",
-        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/logo_learning_selected.png"
-    },
-    {
-        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/planet.png",
-        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/planet.png"
-    },
-    {
-        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_hope.png",
-        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/logo_hope.png"
-    },
-    {
-        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/companies.png",
-        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/companies.png"
-    },
-    {
-        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_samsung.png",
-        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/logo_samsung.png"
-    },
-    {
-        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_planet_selected.png",
-        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/logo_planet_selected.png"
-    },
-    {
-        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_life.png",
-        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/logo_life.png"
-    },
-    {
-        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/icon.png",
-        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/icon.png"
-    },
-    {
-        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_planet.png",
-        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/logo_planet.png"
-    },
-    {
-        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_samsung.png",
-        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/logo_samsung.png"
-    },
-    {
-        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/life.png",
-        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/life.png"
-    },
-    {
-        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_learning_selected.png",
-        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/logo_learning_selected.png"
-    },
-    {
-        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_esprit_mobile.png",
-        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/logo_esprit_mobile.png"
-    },
-    {
-        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/science_program.png",
-        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/science_program.png"
-    },
-    {
-        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_learning.png",
-        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/logo_learning.png"
-    },
-    {
-        "merged": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/logo_life_selected.png",
-        "source": "/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/src/main/res/drawable-xxhdpi/logo_life_selected.png"
+        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/res/merged/debug/drawable-xxhdpi/life.png",
+        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/src/main/res/drawable-xxhdpi/life.png"
     }
 ]

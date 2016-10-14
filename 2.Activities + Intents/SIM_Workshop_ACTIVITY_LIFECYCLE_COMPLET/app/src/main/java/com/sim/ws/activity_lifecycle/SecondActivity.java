@@ -9,23 +9,26 @@ public class SecondActivity extends TracerActivity {
 	TextView tv_choix;
 	RatingBar rating;
 
+	public static String RATING_OPTION="rating";
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_second);
-		// Recevoir les données
+
+		// Recevoir les donnï¿½es
 		Bundle extras = getIntent().getExtras();
 		if (extras == null) {
 			return;
 		}
-		// Récupérer le choix
+		// Rï¿½cupï¿½rer le choix
 		String value1 = extras.getString(Intent.EXTRA_TEXT);
 		if (value1 != null) {
 			// Afficher le choix
 		}
 
 		tv_choix = (TextView) findViewById(R.id.tv_choix);
-		tv_choix.setText(extras.getCharSequence("choix"));
+		tv_choix.setText(extras.getCharSequence(MainActivity.CHOICE_OPTION));
 
 		rating = (RatingBar) findViewById(R.id.ratingBar1);
 	}
@@ -38,7 +41,7 @@ public class SecondActivity extends TracerActivity {
 		// Activity finished ok, return the data
 		
 		// TODO 2 put the data with the id returnValue
-		data.putExtra("rating", ""+rating.getProgress());
+		data.putExtra(RATING_OPTION, ""+rating.getProgress());
 		
 		// TODO 3 use setResult(RESULT_OK, intent);
 		// to return the Intent to the application

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "outputFile": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 217
                 },
                 "from": {
-                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/src/main/res/values/strings.xml",
+                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -32,7 +32,7 @@
                     "endOffset": 275
                 },
                 "from": {
-                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/src/main/res/values/dimens.xml",
+                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -51,7 +51,7 @@
                     "endOffset": 331
                 },
                 "from": {
-                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/src/main/res/values/dimens.xml",
+                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -70,7 +70,7 @@
                     "endOffset": 384
                 },
                 "from": {
-                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/src/main/res/values/strings.xml",
+                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -89,7 +89,7 @@
                     "endOffset": 440
                 },
                 "from": {
-                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/src/main/res/values/strings.xml",
+                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -108,7 +108,7 @@
                     "endOffset": 493
                 },
                 "from": {
-                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/src/main/res/values/strings.xml",
+                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -127,7 +127,7 @@
                     "endOffset": 558
                 },
                 "from": {
-                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/src/main/res/values/strings.xml",
+                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -146,7 +146,7 @@
                     "endOffset": 623
                 },
                 "from": {
-                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/src/main/res/values/strings.xml",
+                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -166,7 +166,7 @@
                     "endOffset": 914
                 },
                 "from": {
-                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/src/main/res/values/styles.xml",
+                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -187,7 +187,7 @@
                     "endOffset": 1074
                 },
                 "from": {
-                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/src/main/res/values/styles.xml",
+                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,

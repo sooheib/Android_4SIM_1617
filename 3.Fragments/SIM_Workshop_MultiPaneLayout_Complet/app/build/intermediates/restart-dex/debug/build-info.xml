@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="1537155180559"
+    token="-3593947667108559788"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="227" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="26" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="1155204423959"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="1537155180559"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/sooheib/Desktop/3.Fragments/SIM_Workshop_MultiPaneLayout_InComplet/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

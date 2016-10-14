@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/build/intermediates/res/merged/debug/menu/main.xml",
-        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/src/main/res/menu/main.xml"
+        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/src/main/res/menu/main.xml"
     },
     {
-        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/build/intermediates/res/merged/debug/menu/second.xml",
-        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/src/main/res/menu/second.xml"
+        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/build/intermediates/res/merged/debug/menu/tracer.xml",
+        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/src/main/res/menu/tracer.xml"
     },
     {
-        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/build/intermediates/res/merged/debug/menu/tracer.xml",
-        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/src/main/res/menu/tracer.xml"
+        "merged": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/build/intermediates/res/merged/debug/menu/second.xml",
+        "source": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/2.Activities + Intents/SIM_Workshop_ACTIVITY_LIFECYCLE_COMPLET/app/src/main/res/menu/second.xml"
     }
 ]

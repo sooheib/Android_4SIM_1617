@@ -1,7 +1,4 @@
-#Wed Oct 05 15:30:00 CET 2016
-base.0=/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_be33a04407c2b8fb0024e7d0b15c74d4af57bdd6
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0d338c1cb15fe4c289778e98c4f7b3d3f6ca2f40/classes.dex
-base.1=/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0d338c1cb15fe4c289778e98c4f7b3d3f6ca2f40
-file.0=/home/sooheib/Desktop/3.Fragments/SIM_Workshop_FRAGMENT_INI_INCOMPLET/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_be33a04407c2b8fb0024e7d0b15c74d4af57bdd6/classes.dex
+#Fri Oct 14 21:43:45 CET 2016
+base.0=/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

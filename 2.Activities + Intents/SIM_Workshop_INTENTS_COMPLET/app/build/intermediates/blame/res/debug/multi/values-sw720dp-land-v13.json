@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/2.Activities + Intents/SIM_Workshop_INTENTS_COMPLET/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "outputFile": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/2.Activities + Intents/SIM_Workshop_INTENTS_COMPLET/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 109
                 },
                 "from": {
-                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/2.Activities + Intents/SIM_Workshop_INTENTS_COMPLET/app/src/main/res/values-sw720dp-land/dimens.xml",
+                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/2.Activities + Intents/SIM_Workshop_INTENTS_COMPLET/app/src/main/res/values-sw720dp-land/dimens.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
