@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/1.Layouts/SIM_Workshop_Layouts_Complet/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/1.Layouts/SIM_Workshop_Layouts_Complet/app/src/debug/shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/1.Layouts/SIM_Workshop_Layouts_Complet/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/1.Layouts/SIM_Workshop_Layouts_Complet/app/src/debug/shaders"/></dataSet></merger>

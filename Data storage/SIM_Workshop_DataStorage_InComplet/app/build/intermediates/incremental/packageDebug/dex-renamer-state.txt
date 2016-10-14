@@ -1,0 +1,7 @@
+#Wed Oct 12 12:13:45 CET 2016
+base.0=/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_InComplet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ab842f2dc2fab65991d15c9688ed79abc9fe3740
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_InComplet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e7d2ec2a3ad8c74cfc1dd146f8d8e8f9a59b8f72/classes.dex
+base.1=/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_InComplet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e7d2ec2a3ad8c74cfc1dd146f8d8e8f9a59b8f72
+file.0=/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_InComplet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ab842f2dc2fab65991d15c9688ed79abc9fe3740/classes.dex

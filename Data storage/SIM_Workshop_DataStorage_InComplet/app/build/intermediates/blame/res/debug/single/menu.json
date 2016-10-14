@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_InComplet/app/build/intermediates/res/merged/debug/menu/login.xml",
+        "source": "/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_InComplet/app/src/main/res/menu/login.xml"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_InComplet/app/build/intermediates/res/merged/debug/menu/article.xml",
+        "source": "/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_InComplet/app/src/main/res/menu/article.xml"
+    },
+    {
+        "merged": "/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_InComplet/app/build/intermediates/res/merged/debug/menu/list.xml",
+        "source": "/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_InComplet/app/src/main/res/menu/list.xml"
+    }
+]

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/1.Layouts/SIM_Workshop_Layouts_Complet/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "outputFile": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/1.Layouts/SIM_Workshop_Layouts_Complet/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/1.Layouts/SIM_Workshop_Layouts_Complet/app/src/main/res/values/dimens.xml",
+                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/1.Layouts/SIM_Workshop_Layouts_Complet/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 164
                 },
                 "from": {
-                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/1.Layouts/SIM_Workshop_Layouts_Complet/app/src/main/res/values/dimens.xml",
+                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/1.Layouts/SIM_Workshop_Layouts_Complet/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 217
                 },
                 "from": {
-                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/1.Layouts/SIM_Workshop_Layouts_Complet/app/src/main/res/values/strings.xml",
+                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/1.Layouts/SIM_Workshop_Layouts_Complet/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 269
                 },
                 "from": {
-                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/1.Layouts/SIM_Workshop_Layouts_Complet/app/src/main/res/values/strings.xml",
+                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/1.Layouts/SIM_Workshop_Layouts_Complet/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -88,7 +88,7 @@
                     "endOffset": 560
                 },
                 "from": {
-                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/1.Layouts/SIM_Workshop_Layouts_Complet/app/src/main/res/values/styles.xml",
+                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/1.Layouts/SIM_Workshop_Layouts_Complet/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -109,7 +109,7 @@
                     "endOffset": 720
                 },
                 "from": {
-                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/1.Layouts/SIM_Workshop_Layouts_Complet/app/src/main/res/values/styles.xml",
+                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/1.Layouts/SIM_Workshop_Layouts_Complet/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,

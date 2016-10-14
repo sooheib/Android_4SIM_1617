@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_InComplet/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_InComplet/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.1.1_3d8137cca33f0f2734adbc13ce13e1d740eff9b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sooheib/android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_InComplet/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.1.1_cbe10ca71989c36bb4b0e5af420ca8de7179637f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_InComplet/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b41bf2759a8254adba9fbd161b7f1c033174cdbd">
+        <dex dex="/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_InComplet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e7d2ec2a3ad8c74cfc1dd146f8d8e8f9a59b8f72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_InComplet/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c18be98430cc1208f255595f12ab316d65fdddf9">
+        <dex dex="/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_InComplet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ab842f2dc2fab65991d15c9688ed79abc9fe3740/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_InComplet/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_InComplet/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.1.1_2f8f35a8a271749fe219898cb5a6592b62726aa2/classes.dex" />
+    </item>
+
+</items>
