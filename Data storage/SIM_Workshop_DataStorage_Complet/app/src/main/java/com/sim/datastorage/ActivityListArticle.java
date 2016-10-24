@@ -53,27 +53,10 @@ public class ActivityListArticle extends Activity {
 					final int position, long arg3) {
 				// TODO Auto-generated method stub
 
-				AlertDialog.Builder alertDialog = new AlertDialog.Builder(ActivityListArticle.this);
+				articleBDD.open();
 
-				alertDialog.setTitle("Confirm Delete...");
-				alertDialog.setMessage("Are you sure you want delete this?");
-				alertDialog.setPositiveButton("YES", new DialogInterface.OnClickListener() {
-					public void onClick(DialogInterface dialog,int which) {
-						articleBDD.open();
-
-						articleBDD.removeArticle(articleList.get(position).getId());
-						articleList = articleBDD.selectAll();
-						listViewArticle.setAdapter(new ArticleAdapter(getBaseContext(), R.layout.item_article, articleList));
-						articleBDD.close();
-					}
-				});
-				alertDialog.setNegativeButton("NO", new DialogInterface.OnClickListener() {
-					public void onClick(DialogInterface dialog, int which) {
-						dialog.cancel();
-					}
-				});
-				alertDialog.show();
-
+				articleBDD.removeArticle(articleList.get(position).getId());
+				articleBDD.close();
 				return false;
 			}
 		});

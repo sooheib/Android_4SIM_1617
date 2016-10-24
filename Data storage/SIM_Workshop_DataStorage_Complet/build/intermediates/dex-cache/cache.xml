@@ -2,11 +2,13 @@
 <items version="2" >
 
     <item
-        jar="/Users/aminezghidi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        is-multidex="false"
+        jar="/home/sooheib/android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
         jumboMode="false"
+        optimize="true"
         revision="22.0.1"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="/Users/aminezghidi/Desktop/4. DataStorage/SIM_Workshop_DataStorage_Complet/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-111a776643185fdc18723a832a5410097cb0d4c3.jar" />
+        <dex dex="/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/Data storage/SIM_Workshop_DataStorage_Complet/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_62e29cc6a596e1ba94100ac401d622a5ab2d615f.jar" />
     </item>
 
 </items>

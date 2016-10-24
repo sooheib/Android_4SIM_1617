@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/1.Layouts/ExerciceLayout/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "outputFile": "/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/1.Layouts/ExerciceLayout/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/1.Layouts/ExerciceLayout/app/src/main/res/values-w820dp/dimens.xml",
+                    "file": "/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/1.Layouts/ExerciceLayout/app/src/main/res/values-w820dp/dimens.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,

@@ -1,35 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    api-level="23"
-    density="xxhdpi"
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="21"
+    density="xhdpi"
     format="8"
-    plugin-version="2.2.0"
-    timestamp="13510225228976"
-    token="-7728030384662712310"
+    plugin-version="2.2.2"
+    timestamp="24272728818032"
+    token="-4565319267389375559"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="203" />
+        duration="196" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="212" />
+        duration="200" />
     <task
         name="verifier"
         duration="71" />
 
     <artifact
-        location="/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/1.Layouts/SIM_Workshop_Layouts_Complet/app/build/outputs/apk/app-debug.apk"
+        location="/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/1.Layouts/SIM_Workshop_Layouts_Complet/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="13510225228976"
+        timestamp="24272728818032"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/1.Layouts/SIM_Workshop_Layouts_Complet/app/build/outputs/apk/app-debug.apk"
+            location="/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/1.Layouts/SIM_Workshop_Layouts_Complet/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
 

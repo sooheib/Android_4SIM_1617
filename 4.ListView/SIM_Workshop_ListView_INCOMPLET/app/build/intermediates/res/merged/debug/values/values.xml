@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/Android/workspaces/SIM/ListView%20&&%20GridView/SIM_Workshop_ListView_INCOMPLET/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">ListViewWS</string>
+    <string name="hello">Hello World, ListViewWSActivity!</string>
+</resources>

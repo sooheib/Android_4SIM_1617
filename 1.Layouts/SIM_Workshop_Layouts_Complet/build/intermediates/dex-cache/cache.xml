@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/1.Layouts/SIM_Workshop_Layouts_Complet/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/1.Layouts/SIM_Workshop_Layouts_Complet/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="58192566f5c289e76286279b46c53ab51207bc29">
-        <dex dex="/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/1.Layouts/SIM_Workshop_Layouts_Complet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f83ba7cb5e3f720fcc04d3c27bd010449bf8a9b2/classes.dex" />
+        sha1="5d9b53d31f38ccd270349ebaffd09d33285a9f7b">
+        <dex dex="/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/1.Layouts/SIM_Workshop_Layouts_Complet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_544f7c6944482de91741f9d90d342a39f62b2c6b/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/1.Layouts/SIM_Workshop_Layouts_Complet/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/1.Layouts/SIM_Workshop_Layouts_Complet/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="02bb3f90cba6b1c7be887e15adf72b5ec84e878a">
-        <dex dex="/media/sooheib/660275E40275BA1F/SIM/Android_ESPRIT_SIM/1.Layouts/SIM_Workshop_Layouts_Complet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1e5bbd965774caa8f2bc7f7c3239f68ff836d6ad/classes.dex" />
+        sha1="ebd068b05250804ee0cf5a19e38c4a10b13106ab">
+        <dex dex="/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/1.Layouts/SIM_Workshop_Layouts_Complet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e1b6d3af99e3671e6146a56d6be841bc1c0177db/classes.dex" />
     </item>
 
 </items>

@@ -20,6 +20,7 @@ public class ActivityLogin extends Activity implements OnClickListener {
 
 	public static String PREFERENCE_F = "reportingapp";
 
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -32,6 +33,7 @@ public class ActivityLogin extends Activity implements OnClickListener {
 
 		//TODO: Get App Variable
 		app = (MyApp) getApplication();
+
 
 		//TODO: Get Preferences
 		SharedPreferences reportingPref = getSharedPreferences(PREFERENCE_F, MODE_PRIVATE);

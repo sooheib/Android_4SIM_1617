@@ -3,21 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jar="/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
         jumboMode="false"
         optimize="true"
         revision="22.0.1"
         sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
-        <dex dex="/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1_696eeaa64c2de124d0fae20b498480452613dfad.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="22.0.1"
-        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
-        <dex dex="/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.1.1_2aa8c4e19c92693fa489e302abfbc9e91d359cc2.jar" />
+        <dex dex="/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1_a1dda421b3f4d6458ac404fed4176a5521e91f52.jar" />
     </item>
     <item
         is-multidex="false"
@@ -26,7 +17,16 @@
         optimize="true"
         revision="22.0.1"
         sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
-        <dex dex="/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1_cbe10ca71989c36bb4b0e5af420ca8de7179637f.jar" />
+        <dex dex="/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1_cbe10ca71989c36bb4b0e5af420ca8de7179637f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.1.1_4a6b0be4e4140690266d11bc613d77d51fda983d.jar" />
     </item>
 
 </items>

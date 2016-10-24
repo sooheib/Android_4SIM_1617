@@ -18,8 +18,6 @@
         android:src="@drawable/head"
         android:background="#5f00"/>
 
-
-
     <LinearLayout
         android:id="@+id/body_hand"
         android:layout_width="fill_parent"

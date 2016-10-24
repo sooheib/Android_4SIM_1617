@@ -1,4 +1,4 @@
-#Fri Oct 14 21:43:45 CET 2016
-base.0=/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Mon Oct 24 18:00:15 CET 2016
+base.0=/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=/media/sooheib/660275E40275BA1F/SIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/3.Fragments/SIM_Workshop_FRAGMENT_INI_COMPLET/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

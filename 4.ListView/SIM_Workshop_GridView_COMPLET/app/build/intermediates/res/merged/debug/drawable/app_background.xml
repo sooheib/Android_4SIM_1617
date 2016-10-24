@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+        android:src="@drawable/woodbackground"
+        android:tileMode="repeat" /><!-- From: file:/E:/Android/workspaces/SIM/ListView%20&amp;&amp;%20GridView/SIM_Workshop_GridView_COMPLET/app/src/main/res/drawable/app_background.xml -->

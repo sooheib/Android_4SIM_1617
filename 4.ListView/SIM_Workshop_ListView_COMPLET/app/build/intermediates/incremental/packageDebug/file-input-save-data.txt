@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Mon Oct 24 18:45:01 CET 2016
+2.base=/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/4.ListView/SIM_Workshop_ListView_INCOMPLET/app/build/intermediates/res/resources-debug.ap_
+5.file=/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/4.ListView/SIM_Workshop_ListView_INCOMPLET/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+5.set=DEX
+3.base=/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/4.ListView/SIM_Workshop_ListView_INCOMPLET/app/build/intermediates/res/resources-debug.ap_
+6.file=/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/4.ListView/SIM_Workshop_ListView_INCOMPLET/app/build/intermediates/res/resources-debug.ap_/res/layout/one_article.xml
+2.set=ANDROID_RESOURCE
+4.base=/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/4.ListView/SIM_Workshop_ListView_INCOMPLET/app/build/intermediates/res/resources-debug.ap_
+count=7
+0.file=/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/4.ListView/SIM_Workshop_ListView_INCOMPLET/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+5.base=/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/4.ListView/SIM_Workshop_ListView_INCOMPLET/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+4.set=ANDROID_RESOURCE
+6.base=/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/4.ListView/SIM_Workshop_ListView_INCOMPLET/app/build/intermediates/res/resources-debug.ap_
+1.file=/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/4.ListView/SIM_Workshop_ListView_INCOMPLET/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/esprit_mobile.png
+1.set=ANDROID_RESOURCE
+2.file=/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/4.ListView/SIM_Workshop_ListView_INCOMPLET/app/build/intermediates/res/resources-debug.ap_/res/layout/mes_articles.xml
+6.set=ANDROID_RESOURCE
+0.base=/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/4.ListView/SIM_Workshop_ListView_INCOMPLET/app/build/intermediates/res/resources-debug.ap_
+3.file=/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/4.ListView/SIM_Workshop_ListView_INCOMPLET/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/4.ListView/SIM_Workshop_ListView_INCOMPLET/app/build/intermediates/res/resources-debug.ap_
+4.file=/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/4.ListView/SIM_Workshop_ListView_INCOMPLET/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
+0.set=ANDROID_RESOURCE

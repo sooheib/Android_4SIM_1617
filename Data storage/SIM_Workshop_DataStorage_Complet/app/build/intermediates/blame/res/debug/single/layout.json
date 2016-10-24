@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_Complet/app/build/intermediates/res/merged/debug/layout/item_article.xml",
-        "source": "/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_Complet/app/src/main/res/layout/item_article.xml"
+        "merged": "/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/Data storage/SIM_Workshop_DataStorage_Complet/app/build/intermediates/res/merged/debug/layout/add_article_activity.xml",
+        "source": "/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/Data storage/SIM_Workshop_DataStorage_Complet/app/src/main/res/layout/add_article_activity.xml"
     },
     {
-        "merged": "/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_Complet/app/build/intermediates/res/merged/debug/layout/login_activity.xml",
-        "source": "/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_Complet/app/src/main/res/layout/login_activity.xml"
+        "merged": "/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/Data storage/SIM_Workshop_DataStorage_Complet/app/build/intermediates/res/merged/debug/layout/login_activity.xml",
+        "source": "/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/Data storage/SIM_Workshop_DataStorage_Complet/app/src/main/res/layout/login_activity.xml"
     },
     {
-        "merged": "/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_Complet/app/build/intermediates/res/merged/debug/layout/list_article_activity.xml",
-        "source": "/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_Complet/app/src/main/res/layout/list_article_activity.xml"
+        "merged": "/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/Data storage/SIM_Workshop_DataStorage_Complet/app/build/intermediates/res/merged/debug/layout/item_article.xml",
+        "source": "/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/Data storage/SIM_Workshop_DataStorage_Complet/app/src/main/res/layout/item_article.xml"
     },
     {
-        "merged": "/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_Complet/app/build/intermediates/res/merged/debug/layout/add_article_activity.xml",
-        "source": "/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_Complet/app/src/main/res/layout/add_article_activity.xml"
+        "merged": "/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/Data storage/SIM_Workshop_DataStorage_Complet/app/build/intermediates/res/merged/debug/layout/list_article_activity.xml",
+        "source": "/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/Data storage/SIM_Workshop_DataStorage_Complet/app/src/main/res/layout/list_article_activity.xml"
     }
 ]

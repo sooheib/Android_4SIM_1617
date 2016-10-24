@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_Complet/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "outputFile": "/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/Data storage/SIM_Workshop_DataStorage_Complet/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_Complet/app/src/main/res/values/dimens.xml",
+                    "file": "/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/Data storage/SIM_Workshop_DataStorage_Complet/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 164
                 },
                 "from": {
-                    "file": "/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_Complet/app/src/main/res/values/dimens.xml",
+                    "file": "/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/Data storage/SIM_Workshop_DataStorage_Complet/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 211
                 },
                 "from": {
-                    "file": "/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_Complet/app/src/main/res/values/strings.xml",
+                    "file": "/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/Data storage/SIM_Workshop_DataStorage_Complet/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 258
                 },
                 "from": {
-                    "file": "/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_Complet/app/src/main/res/values/strings.xml",
+                    "file": "/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/Data storage/SIM_Workshop_DataStorage_Complet/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 313
                 },
                 "from": {
-                    "file": "/home/sooheib/Desktop/Data storage/SIM_Workshop_DataStorage_Complet/app/src/main/res/values/strings.xml",
+                    "file": "/media/sooheib/660275E40275BA1F/ESPRITSIM/Android_4SIM_1617/Data storage/SIM_Workshop_DataStorage_Complet/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
